@@ -1,2 +1,1 @@
-# lianyuzhizuoren_cardmaker
-# lianyuzhizuoren_cardmaker
+请设置upload文件夹为777权限，并把index.php第183行字体路径改你的服务器字体文件(./font/fzqk.ttf)存放的绝对路径！！！
